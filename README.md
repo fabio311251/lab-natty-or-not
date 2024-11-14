@@ -21,15 +21,31 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
-
+Criando meu próprio avatar personalizado (1ª vez)
 ## 📒 Descrição
-Breve descrição do seu projeto
+O objetivo do meu projeto é criar um avatar, utilizando uma foto minha, fantasiado de índio, (faz 2 anos que fui na festa a fantasia kkkk), criar uma fala de pelo menos 1 min, falando das possibilidades da inteligência artificial IA, criar legendas neste vídeo, sincronizadas perfeitamente com a fala. Vamos ver no que dá!!
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+
+##Primeiramente vou usar o chatGPT para criar um texto curto falando das possibilidades da inteligência artificial IA.
+##Segue o que foi pedido ao chatGPT para criar: crie um texto curto que possa ser falado em no máximo um minuto, falando das possibilidades da inteligência artificial IA.
+## Resultado: "Gostei do texto"
+A inteligência artificial oferece inúmeras possibilidades para transformar nossas vidas e a sociedade. Ela já está presente em várias áreas: na medicina, ajuda a diagnosticar doenças com mais precisão e a desenvolver novos tratamentos; na educação, permite criar conteúdos personalizados para cada aluno, promovendo uma aprendizagem mais eficaz; e na indústria, otimiza processos, reduzindo custos e aumentando a produtividade. Além disso, IA melhora a segurança em cidades inteligentes, aprimora a experiência de consumo e até auxilia na preservação ambiental, ajudando a monitorar ecossistemas e prever desastres naturais. Em resumo, a IA está moldando um futuro mais eficiente, seguro e inovador.
+
+
+#O próximo passo é criar um áudio sintetizado desse texto.
+# A inteligência artificial oferece inúmeras possibilidades para transformar nossas vidas e a sociedade. Ela já está presente em várias áreas: na medicina, ajuda a diagnosticar doenças com mais precisão e a desenvolver novos tratamentos; na educação, permite criar conteúdos personalizados para cada aluno, promovendo uma aprendizagem mais eficaz; e na indústria, otimiza processos, reduzindo custos e aumentando a produtividade. Além disso, IA melhora a segurança em cidades inteligentes, aprimora a experiência de consumo e até auxilia na preservação ambiental, ajudando a monitorar ecossistemas e prever desastres naturais. Em resumo, a IA está moldando um futuro mais eficiente, seguro e inovador.
+# Usei o https://speaktor.com
+
+
+
+
+Na sequência fazer um avatar.
+A próxima etapa é fazer com que o avatar sincronize o áudio e pareça estar falando.
+Depois quero colocar legendas do audio conforme o avatar fala.
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
