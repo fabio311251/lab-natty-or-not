@@ -38,20 +38,22 @@ A inteligência artificial oferece inúmeras possibilidades para transformar nos
 
 #O próximo passo é criar um áudio sintetizado desse texto.
 # A inteligência artificial oferece inúmeras possibilidades para transformar nossas vidas e a sociedade. Ela já está presente em várias áreas: na medicina, ajuda a diagnosticar doenças com mais precisão e a desenvolver novos tratamentos; na educação, permite criar conteúdos personalizados para cada aluno, promovendo uma aprendizagem mais eficaz; e na indústria, otimiza processos, reduzindo custos e aumentando a produtividade. Além disso, IA melhora a segurança em cidades inteligentes, aprimora a experiência de consumo e até auxilia na preservação ambiental, ajudando a monitorar ecossistemas e prever desastres naturais. Em resumo, a IA está moldando um futuro mais eficiente, seguro e inovador.
-# Usei o https://speaktor.com
-
-
-
+# Usei o https://www.narakeet.com/app/text-to-audio/?projectId=85e0bc00-4a02-4950-a47a-d0553c2b09
 
 Na sequência fazer um avatar.
+## Usei o https://app.heygen.com/projects
+avatar criado
+audio upado
+
+
 A próxima etapa é fazer com que o avatar sincronize o áudio e pareça estar falando.
-Depois quero colocar legendas do audio conforme o avatar fala.
+
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
-
+Ficou ótimo ao meu ver, primeiro avatar, top!!
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
+Esse exercício me fez pensar muito, adorei, cheguei aos resultados esperados.
 ```
 
 ### Exemplos e Insigths
